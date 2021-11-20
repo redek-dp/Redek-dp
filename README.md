@@ -24,7 +24,7 @@
 
 ### 💻 Retomar estatísticas e idiomas
 
-<img align="center" alt="redek-dp's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redek-dp&show_icons=true&theme=radical" />.<img align="center" alt="redek-dp's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redek-dp&layout=compact&theme=gotham" />
+<img align="center" alt="redek-dp's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redek-dp&show_icons=true&theme=radical" /><img align="center" alt="redek-dp's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redek-dp&layout=compact&theme=gotham" />
 
 ---
 
