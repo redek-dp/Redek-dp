@@ -14,7 +14,11 @@ https://dav7.pages.dev/
 
 --------
 
-<br />
+### DOAR COM
+
+[![DOAR COM](https://img.shields.io/badge/DOAR%20COM-PagBank-blue.svg?logo=pagseguro&style=for-the-badge&logoColor=f5f5f5)](https://pag.ae/7Y3uUnhg8)
+
+--------
 
 ## CONECTE-SE COM NÓS:
 
