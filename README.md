@@ -20,9 +20,10 @@ https://dav7.pages.dev/
 
 --------
 
-## CONECTE-SE COM NÓS:
+### CONECTE-SE COM NÓS:
 
 [<img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="davidsonbpe | YouTube" />][youtube]
+[<img height="30" src="https://img.shields.io/badge/DAV7.STORE-555?style=for-the-badge&logo=cloudways&logoColor=white" alt="DAV7.STORE" />][dav7]
 [<img height="30" src="https://img.shields.io/badge/Twitter-222?style=for-the-badge&logo=x&logoColor=white" alt="davidsonbpe | Twitter" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="davidsonbpe | Instagram" />][instagram]
 [<img height="30" src="https://img.shields.io/badge/CodePen-003333?style=for-the-badge&logo=c&logoColor=white" alt="davidsonbpe | CodePen" />][CodePen]
@@ -40,7 +41,7 @@ https://dav7.pages.dev/
 
 <br />
 
-
+[dav7]: https://dav7.pages.dev/
 [twitter]: https://twitter.com/davidsonbpe
 [youtube]: https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg/
 [instagram]: https://www.instagram.com/davidsonbpe/
